@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_Title.unity
+    guid: da3a22e3a8615324bbb87cbf5914bfec
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 64dcfbd2b3ddf7b47afb550415c187fa
+  - enabled: 1
+    path: Assets/Scenes/ClearScene.unity
+    guid: da18b9a6fcb8bd944845ca029039098e
+  - enabled: 1
+    path: Assets/Scenes/Anja.unity
+    guid: e8fa718fc6ac4a442931f616279496a5
+  - enabled: 1
+    path: Assets/Scenes/Barroth.unity
+    guid: bceff393e69215f45b4eb735e95243c5
+  - enabled: 1
+    path: Assets/Scenes/GJagras.unity
+    guid: 2bf015fa8cadfce4ca9265027d4e5ccb
+  - enabled: 1
+    path: Assets/Scenes/Inven.unity
+    guid: d890c52767107354ba2d8fcd3d8a949b
+  - enabled: 1
+    path: Assets/Scenes/Jyura.unity
+    guid: af05be90a4b731e4db664458053cc260
+  - enabled: 1
+    path: Assets/Scenes/Kulu.unity
+    guid: 267243ad57dc7d84882822b2b429cf3e
+  - enabled: 1
+    path: Assets/Scenes/Pukei.unity
+    guid: 4fac439793810eb448ad7629aea2aa16
+  - enabled: 1
+    path: Assets/Scenes/Tobi.unity
+    guid: cedc457e3b1ed6b45ba70071bca24936
+  - enabled: 1
+    path: Assets/Scenes/Weapon.unity
+    guid: 99f7a8935b6c97040bc4538d74ec38d9
+  m_configObjects: {}
